@@ -1,2 +1,2 @@
-# ianclingerman.github.io
+# iclingerman.github.io
 Personal Website
